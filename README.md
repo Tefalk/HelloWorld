@@ -2,3 +2,4 @@
 # HelloWorld
 This is the logo for Pikeman Solutions. It was initially formed as a company to provide a secure web presence to individuals who chose not to utilize the major social media service providers and utilize existing personal hardware.
 The company's current focus is developing educational games based on neglected board games.
+Other books I am reading related to this project: 1)Vi and Vim, 2) Git: Pocket Guide, 3) Sed and Awk
